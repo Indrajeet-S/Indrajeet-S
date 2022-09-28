@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indrajeet Shelake
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Agorithms
+- 🌱 I’m currently learning Algorithms
 <!--- I’m looking to collaborate on ... --->
 - 📫 How to reach me indravshelake95@gmail.com
 

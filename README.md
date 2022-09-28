@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Indrajeet Shelake
+- 👋 Hello, I’m @Indrajeet Shelake
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Algorithms
 <!--- I’m looking to collaborate on ... --->

@@ -5,7 +5,7 @@
 * 📫 How to reach me indravshelake95@gmail.com
 
 
-### Languages I'm familiar with
+### Programming Languages I'm familiar with
 * C++
 * Python
 

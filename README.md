@@ -1,15 +1,13 @@
-- 👋 Hello, I’m Indrajeet Shelake
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning algorithms and improving logical thinking
-<!--- I’m looking to collaborate on ... --->
-- 📫 How to reach me indravshelake95@gmail.com
+### Hello 👋,
+* I am Indrajeet Shelake.
+* I’m interested in coding.
+* 🌱 I’m currently learning algorithms and improving logical thinking. 
+* 📫 How to reach me indravshelake95@gmail.com
 
 
+### Languages I'm familiar with
+* C++
+* Python
 
 
 [![@indrajeet_'s Holopin board](https://holopin.io/api/user/board?user=indrajeet_)](https://holopin.io/@indrajeet_)
-
-<!---
-Indrajeet-S/Indrajeet-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
